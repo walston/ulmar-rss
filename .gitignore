@@ -2,6 +2,6 @@
 /dist
 
 .env*
-!.env.sample
+!.env*.sample
 
 /audio/*.m4a
