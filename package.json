@@ -4,16 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "|||||||| LOCAL SETUP ||||||||": "",
-    "setup-local": "npm run setup-pre-push && npm run setup-local-env",
-    "setup-pre-push": "if [[ ! -a ./.git/hooks/pre-push ]]; then cp hooks/pre-push .git/hooks/pre-push; fi;",
-    "setup-local-env": "if [[ ! -a ./.env ]]; then cp .env.sample .env; fi;",
-    "|||||||| HOST SETUP ||||||||": "",
-    "setup-post-receive": "if [[ ! -a ./.git/hooks/post-receive ]]; then cp hooks/post-receive .git/hooks/post-receive; fi;",
+    "|||||||| SETUP ||||||||": "",
+    "setup": "if [[ ! -a ./.env ]]; then cp .env.sample .env; fi;",
     "|||||||| PROCESS ||||||||": "",
-    "sync": "source .env; rsync -azP ./audio/ $HOST:$PATH_TO_AUDIO_STORAGE/audio",
     "build": "node index.js",
-    "postbuild": "source .env; rsync -azP ./dist/ $SERVER_PATH"
+    "postbuild": "npm run sync-audio && npm run sync-feed",
+    "sync-feed": "source .env; rsync -azP ./dist/ $HOST:$SERVER_PATH",
+    "sync-audio": "source .env; rsync -azP ./audio/ $HOST:$SERVER_PATH/audio"
   },
   "keywords": [],
   "author": "",
