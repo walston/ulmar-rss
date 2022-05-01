@@ -1,1 +1,12 @@
-{}
+{
+  "title": "The Last Throne of Ulmar",
+  "feedUrl": "$baseUrl/rss.xml",
+  "siteUrl": "$baseUrl",
+  "imageUrl": "$baseUrl/cover.jpg",
+  "author": "Nathan Walston",
+  "managingEditor": "Nathan Walston",
+  "webMaster": "Nathan Walston",
+  "copyright": "2022 Nathan Walston",
+  "language": "en",
+  "ttl": 60
+}
