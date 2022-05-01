@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "sync": "source .env; rsync -azP ./audio $HOST:$PATH_TO_AUDIO_STORAGE/audio",
     "run": "node index.js"
   },
   "keywords": [],
