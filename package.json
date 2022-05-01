@@ -9,7 +9,7 @@
     "new-git-hook": "if [[ ! -a ./.git/hooks/pre-push ]]; then cp ./pre-push ./.git/hooks/pre-push; fi;",
     "new-env": "if [[ ! -a ./.env ]]; then cp .env.sample .env; fi;",
     "**** PROCESS ****": "",
-    "sync": "source .env; rsync -azP ./audio $HOST:$PATH_TO_AUDIO_STORAGE/audio",
+    "sync": "source .env; rsync -azP ./audio/ $HOST:$PATH_TO_AUDIO_STORAGE/audio",
     "build": "node index.js"
   },
   "keywords": [],
