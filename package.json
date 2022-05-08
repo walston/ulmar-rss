@@ -7,9 +7,9 @@
     "|||||||| SETUP ||||||||": "",
     "setup": "if [[ ! -a ./.env ]]; then cp .env.sample .env; fi;",
     "|||||||| PROCESS ||||||||": "",
-    "prebuild": "rm -rf dist; mkdir dist",
-    "build": "source .env; node index.js",
-    "postbuild": "npm run sync-audio && npm run sync-feed",
+    "prestart": "rm -rf dist; mkdir dist",
+    "start": "source .env; node index.js",
+    "poststart": "npm run sync-audio && npm run sync-feed",
     "sync-feed": "source .env; rsync -azP ./dist/ $HOST:$SERVER_PATH",
     "sync-audio": "source .env; rsync -azP ./audio/ $HOST:$SERVER_PATH/audio"
   },
@@ -17,6 +17,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "podcast": "^2.0.0"
+    "xmlbuilder2": "^3.0.2"
   }
 }
