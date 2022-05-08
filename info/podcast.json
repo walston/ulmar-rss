@@ -1,12 +1,15 @@
 {
   "title": "The Last Throne of Ulmar",
+  "description": "The Last Throne of Ulmar is a D&D Actual Play podcast of Nathan's Audio Notes, for private consumption. It is not intented to reach any audiance beyond himself.",
   "feedUrl": "$baseUrl/rss.xml",
   "siteUrl": "$baseUrl",
   "imageUrl": "$baseUrl/cover.jpg",
   "author": "Nathan Walston",
+  "authorEmail": "nathanielwalston@gmail.com",
   "managingEditor": "Nathan Walston",
   "webMaster": "Nathan Walston",
   "copyright": "2022 Nathan Walston",
   "language": "en",
-  "ttl": 60
+  "ttl": 60,
+  "category": "private"
 }

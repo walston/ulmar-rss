@@ -1,44 +1,51 @@
 {
-  "Ulmar001.m4a": {
+  "c1e001": {
     "title": "E001: Meet our Heroes",
     "description": "We meet the players, they meet Henk, Wip, Oril, and a gang ready to kick their ass. The gang lacks the skill to kick their ass tho, and instead a few go running away. As the characters revel in their accomplishments they realize Oril is missing, only to find him knocked out in the alleyway.",
     "url": "$baseUrl/audio/Ulmar001.m4a",
-    "guid": "c1e001",
+    "file": "./audio/Ulmar001.m4a",
     "date": "2022-01-25 19:00 PST"
   },
-  "Ulmar002.m4a": {
+  "c1e002": {
     "title": "E002: Hot Pursuit",
     "description": "The gang chases down a lone goon evading them. He's got a big lead and darts into a service entrance in the mall. Eldin hijacks a truck, O'Fearain commondeers a car, and the rest hoof it. When the thief is apprehended and interrogated he's met with a shocking demise.",
     "url": "$baseUrl/audio/Ulmar002.m4a",
-    "guid": "c1e002",
+    "file": "./audio/Ulmar002.m4a",
     "date": "2022-02-10 19:00 PST"
   },
-  "Ulmar003.m4a": {
+  "c1e003": {
     "title": "E003: Invisible Assailant",
     "description": "A lightning ball thrown from the darkness kills the captive. Constables arrive on scene and are persuaded to arrest the mage Avozahar. The party heads over to the Dogwood Precinct to explain the chaos.",
     "url": "$baseUrl/audio/Ulmar003.m4a",
-    "guid": "c1e003",
+    "file": "./audio/Ulmar003.m4a",
     "date": "2022-02-17 19:00 PST"
   },
-  "Ulmar004.m4a": {
+  "c1e004": {
     "title": "E004: Police Ineptitude",
     "description": "John VonDeMort assists the party in setting up their story, Inspector Elaias brings in a truth syrum contraption, and the party is broken out of the precinct by none other than Avozahar's henches",
     "url": "$baseUrl/audio/Ulmar004.m4a",
-    "guid": "c1e004",
+    "file": "./audio/Ulmar004.m4a",
     "date": "2022-03-10 19:00 PST"
   },
-  "Ulmar005.m4a": {
+  "c1e005": {
     "title": "E005: Suspicious Contacts",
     "description": "The party attempts to learn more about what weeds they're in. They learn of the Humoric Elements and set out to collect one more (the Brown Mold Heart) from Hardfort Keep in the North",
     "url": "$baseUrl/audio/Ulmar005.m4a",
-    "guid": "c1e005",
+    "file": "./audio/Ulmar005.m4a",
     "date": "2022-04-07 19:00 PST"
   },
-  "Ulmar006.m4a": {
+  "c1e006": {
     "title": "E006: Road Trip",
     "description": "The Players road trip up to Hardfort, but trade some money at a rest stop on the way.",
     "url": "$baseUrl/audio/Ulmar006.m4a",
-    "guid": "c1e006",
+    "file": "./audio/Ulmar006.m4a",
     "date": "2022-04-21 19:00 PST"
+  },
+  "c1e007": {
+    "title": "E007: Road Rage",
+    "description": "Under attack on the road, the team trucks through a biker gang and on to Hardfort meeting the kindly lady at the tourism bureau.",
+    "url": "$baseUrl/audio/Ulmar007.m4a",
+    "file": "./audio/Ulmar007.m4a",
+    "date": "2022-05-05 19:00 PST"
   }
 }
