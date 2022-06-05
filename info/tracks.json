@@ -47,5 +47,12 @@
     "url": "$baseUrl/audio/Ulmar007.m4a",
     "file": "./audio/Ulmar007.m4a",
     "date": "2022-05-05 19:00 PST"
+  },
+  "c1e008": {
+    "title": "E008: Hardfort Fairgrounds",
+    "description": "The party gets to the Hardfort fairgrounds and signs up for a tour of the keep. Konan & The Bardbarians make a name as The Bard to Beat",
+    "url": "$baseUrl/audio/Ulmar008.m4a",
+    "file": "./audio/Ulmar008.m4a",
+    "date": "2022-06-02 19:00 PST"
   }
 }
