@@ -54,5 +54,12 @@
     "url": "$baseUrl/audio/Ulmar008.m4a",
     "file": "./audio/Ulmar008.m4a",
     "date": "2022-06-02 19:00 PST"
+  },
+  "c1e009": {
+    "title": "E009: Haunted Forest of Hardfort Keep",
+    "description": "After purchasing a ticket to the Haunted Forest tour the party winds through the forest surrounding the keep learning lore about the Garnetsend family",
+    "url": "$baseUrl/audio/Ulmar009.m4a",
+    "file": "./audio/Ulmar009.m4a",
+    "date": "2022-06-23 19:00 PST"
   }
 }
