@@ -61,5 +61,12 @@
     "url": "$baseUrl/audio/Ulmar009.m4a",
     "file": "./audio/Ulmar009.m4a",
     "date": "2022-06-23 19:00 PST"
+  },
+  "c1e010": {
+    "title": "E010: The Tale of Garnet's End",
+    "description": "The Party finally arrives at the keep, being chased by \"horrors\". The play depicts the tragedy of the Garnetsend family crescendo'd by a final battle against zombies and a Peryton.",
+    "url": "$baseUrl/audio/Ulmar010.m4a",
+    "file": "./audio/Ulmar010.m4a",
+    "date": "2022-06-28 19:00 PST"
   }
 }
