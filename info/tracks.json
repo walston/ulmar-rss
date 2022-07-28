@@ -68,5 +68,12 @@
     "url": "$baseUrl/audio/Ulmar010.m4a",
     "file": "./audio/Ulmar010.m4a",
     "date": "2022-06-28 19:00 PST"
+  },
+  "c1e011": {
+    "title": "E011: Humble Pie",
+    "description": "The Party finds a puzzle granting access to the crypts below.",
+    "url": "$baseUrl/audio/Ulmar011.m4a",
+    "file": "./audio/Ulmar011.m4a",
+    "date": "2022-07-26 19:00 PST"
   }
 }
