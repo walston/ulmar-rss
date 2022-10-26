@@ -82,5 +82,19 @@
     "url": "$baseUrl/audio/Ulmar012.m4a",
     "file": "./audio/Ulmar012.m4a",
     "date": "2022-08-09 19:00 PST"
+  },
+  "c1e013": {
+    "title": "E013: A Little Bit of Rest For The Wicked",
+    "description": "Skylar is reprimanded by her patron Lara, and the party combats the cursed Garnetsend brothers.",
+    "url": "$baseUrl/audio/Ulmar013.m4a",
+    "file": "./audio/Ulmar013.m4a",
+    "date": "2022-09-13 19:00 PST"
+  },
+  "c1e014": {
+    "title": "E014: Returning Heroes",
+    "description": "The party returns to Ulmar richer. They learn Wip's connection at the Guild of Harvest has been murdered. They arrange to meet Gregor across from the Guild to gather information.",
+    "url": "$baseUrl/audio/Ulmar014.m4a",
+    "file": "./audio/Ulmar014.m4a",
+    "date": "2022-09-14 19:00 PST"
   }
 }
