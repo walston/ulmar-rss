@@ -96,5 +96,12 @@
     "url": "$baseUrl/audio/Ulmar014.m4a",
     "file": "./audio/Ulmar014.m4a",
     "date": "2022-09-14 19:00 PST"
+  },
+  "c1e015": {
+    "title": "E015: Returning Heroes",
+    "description": "Following a string of clues leading to the Guild of Harvest, the gang breaks in and gains entry to the magical vault of Toros Sylharris.",
+    "url": "$baseUrl/audio/Ulmar015.m4a",
+    "file": "./audio/Ulmar015.m4a",
+    "date": "2022-10-25 19:00 PST"
   }
 }
